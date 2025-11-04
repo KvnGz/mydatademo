@@ -3,6 +3,9 @@
 ## Overview
 This project is focused on improving customer satisfication, it describe how consumer rate certain products.
 
+
+<img width="1164" height="734" alt="Screenshot 2025-11-04 093644" src="https://github.com/user-attachments/assets/49b4e12f-86b4-4606-b2fd-f6ed84ac17c1" />
+
 ## Aim & Objectives
 - To note the total number of complaints overtime
 - Company's response to the complaints
